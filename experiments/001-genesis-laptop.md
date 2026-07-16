@@ -15,6 +15,14 @@ Dell Latitude E7450
 - 128GB mSATA SSD
 - Battery health: 94%
 
+## Photos
+
+![Dell Latitude E7450](../images/genesis/laptopopen.jpg)
+
+![Dell Latitude E7450](../images/genesis/laptopclosed.jpg)
+
+
+
 ## History
 
 This laptop originally ran Windows 7 and is now being repurposed as the first ProofOfHome infrastructure project.

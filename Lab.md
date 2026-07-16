@@ -1,17 +1,42 @@
----
-layout: default
-title: Hardware
----
+# Lab
 
-# Hardware
+The ProofOfHome lab is where hardware, systems, and experiments are built, tested, and documented.
 
-Documentation of hardware used for ProofOfNode experiments.
+The goal is to understand what technology is required to create practical, sovereign home infrastructure.
 
-## Hardware List
+## Current Hardware
+
+No dedicated hardware currently deployed.
+
+## Season 1: Bitcoin Home Node Experiment
+
+The first lab project is building and operating a Bitcoin node at home.
+
+Hardware research will focus on:
+
+- Low-cost computing options
+- Storage requirements
+- Power efficiency
+- Reliability
+- Long-term operation
+
+## Hardware Categories
+
+Future documentation will include:
 
 - Node computers
 - Storage devices
 - Networking equipment
-- Power solutions
+- Power monitoring
+- Home infrastructure
 
-Hardware testing and results will be documented here.
+## Testing & Results
+
+Each hardware experiment will document:
+
+- Hardware specifications
+- Purchase cost
+- Power usage
+- Performance
+- Problems encountered
+- Lessons learned

@@ -14,21 +14,22 @@ Each experiment records:
 
 ## Active Experiments
 
-### Season 1: Bitcoin Home Node
+### Experiment 001: Reviving an Old Laptop
 
-Status: Planning
+Status: In Progress
 
 Goal:
 
-Build and operate a Bitcoin node at home using affordable hardware.
+Transform an existing Dell Latitude E7450 laptop into the first ProofOfHome Bitcoin node.
+
+[Read Experiment 001: Reviving an Old Laptop](experiments/001-genesis-laptop.md)
 
 Questions:
 
-- What is the cheapest practical setup?
-- How much power does it use?
-- How reliable is it?
-- What can an ordinary person learn from running one?
-
+What is the cheapest practical setup?
+How much power does it use?
+How reliable is it?
+What can an ordinary person learn from running one?
 ## Future Experiments
 
 Future seasons may explore:

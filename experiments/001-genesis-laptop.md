@@ -4,7 +4,11 @@ Status: In Progress
 
 ## Goal
 
-an an old laptop become useful sovereign home infrastructure?
+Can an old laptop become useful sovereign home infrastructure?
+
+The first ProofOfHome experiment explores whether existing hardware can be transformed into a Bitcoin home node.
+
+The process will document the setup, costs, challenges, and lessons learned.
 
 ## Starting Hardware
 
@@ -21,11 +25,11 @@ Dell Latitude E7450
 
 ![Dell Latitude E7450](../images/genesis/laptopclosed.jpg)
 
-
-
 ## History
 
 This laptop originally ran Windows 7 and is now being repurposed as the first ProofOfHome infrastructure project.
+
+Rather than buying new hardware, this experiment tests what can be achieved by reusing existing equipment.
 
 ## Current State
 
@@ -39,6 +43,33 @@ Windows 7 laptop
 Ubuntu Server LTS  
 ↓  
 Bitcoin pruned node
+
+## Timeline
+
+### July 2026
+
+Completed:
+- ProofOfHome project created
+- Genesis hardware selected
+- Dell Latitude E7450 documented
+- Hardware specifications recorded
+
+Next:
+- Install Ubuntu Server LTS
+- Configure Bitcoin Core
+- Run a pruned Bitcoin node
+- Measure performance and power usage
+
+## Costs
+
+| Item | Cost |
+|---|---:|
+| Dell Latitude E7450 | $0 |
+| Existing charger | $0 |
+| Ubuntu Server LTS | $0 |
+| Bitcoin Core | $0 |
+
+**Total so far: $0**
 
 ## Questions
 

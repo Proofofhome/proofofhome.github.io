@@ -4,52 +4,45 @@ Building sovereign technology one home at a time.
 
 ## Genesis
 
-ProofOfHome begins as a personal experiment to explore how ordinary people can build more independent, private, and resilient homes using open technology.
+ProofOfHome is an open-source project documenting the journey of building a more sovereign, private, and resilient home using open technology.
 
-This project documents the journey — including the successes, failures, costs, and lessons learned.
+The project starts with Bitcoin, exploring how ordinary people can run and understand their own infrastructure from home.
 
 ## First Experiment: Bitcoin Home Node
 
-The first mission is simple:
+Season 1 begins with a simple question:
 
-Build and operate a Bitcoin node at home.
+Can an ordinary person run Bitcoin infrastructure at home?
 
-The goal is to understand:
+This experiment will document:
 
-- How Bitcoin infrastructure works
-- What hardware is actually required
-- How much power it uses
-- What challenges appear when running your own node
+- Hardware selection
+- Setup process
+- Costs
+- Power usage
+- Problems and lessons learned
 
-## Current Status
+## The Long-Term Vision
 
-Phase 1: Foundation
+Over time, ProofOfHome will explore:
 
-✅ Project identity created  
-✅ GitHub repository created  
-✅ Website launched  
+- Bitcoin and Lightning
+- Self-hosted home infrastructure
+- Privacy and security
+- Physical technology builds
+- Home monitoring
+- Renewable energy systems
 
-Next steps:
+## Explore
 
-⬜ Select Bitcoin node hardware  
-⬜ Build first node  
-⬜ Document setup and results  
+- [About](about.md)
+- [Experiments](experiments.md)
+- [Guides](guides.md)
+- [Hardware](hardware.md)
+- [Roadmap](roadmap.md)
 
-## Experiments
+## Mission
 
-Future experiments will explore:
+The goal is not to create a perfect system.
 
-- Bitcoin nodes
-- Lightning Network
-- Bitaxe mining
-- Solar-powered infrastructure
-- Self-hosted services
-- Home security and privacy
-
-## Follow the Journey
-
-The goal is not to present a finished product.
-
-The goal is to document the process of learning, building, testing, and sharing.
-
-Welcome to ProofOfHome — Genesis Day.
+The goal is to document the real process of learning, building, testing, and sharing.

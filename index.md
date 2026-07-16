@@ -2,13 +2,13 @@
 
 Building sovereign technology one home at a time.
 
-## Genesis
+## Genesis: Why This Project Exists
 
 ProofOfHome is an open-source project documenting the journey of building a more sovereign, private, and resilient home using open technology.
 
-The project starts with Bitcoin, exploring how ordinary people can run and understand their own infrastructure from home.
+The project starts with Bitcoin, exploring how ordinary people can run, understand, and control their own infrastructure from home.
 
-## First Experiment: Bitcoin Home Node
+## Season 1: The Bitcoin Home Node Experiment
 
 Season 1 begins with a simple question:
 
@@ -38,7 +38,7 @@ Over time, ProofOfHome will explore:
 - [About](about.md)
 - [Experiments](experiments.md)
 - [Guides](guides.md)
-- [Hardware](hardware.md)
+- [Lab](hardware.md)
 - [Roadmap](roadmap.md)
 
 ## Mission

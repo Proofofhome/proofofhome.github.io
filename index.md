@@ -1,27 +1,55 @@
-# ProofOfNode
+# ProofOfHome
 
 Building sovereign technology one home at a time.
 
-## About
+## Genesis
 
-Follow my journey as I build an open Bitcoin home laboratory focused on decentralisation, privacy, self-hosting, and resilient technology.
+ProofOfHome begins as a personal experiment to explore how ordinary people can build more independent, private, and resilient homes using open technology.
+
+This project documents the journey — including the successes, failures, costs, and lessons learned.
+
+## First Experiment: Bitcoin Home Node
+
+The first mission is simple:
+
+Build and operate a Bitcoin node at home.
+
+The goal is to understand:
+
+- How Bitcoin infrastructure works
+- What hardware is actually required
+- How much power it uses
+- What challenges appear when running your own node
+
+## Current Status
+
+Phase 1: Foundation
+
+✅ Project identity created  
+✅ GitHub repository created  
+✅ Website launched  
+
+Next steps:
+
+⬜ Select Bitcoin node hardware  
+⬜ Build first node  
+⬜ Document setup and results  
 
 ## Experiments
 
-- Bitcoin Node
+Future experiments will explore:
+
+- Bitcoin nodes
 - Lightning Network
-- Bitaxe Mining
+- Bitaxe mining
 - Solar-powered infrastructure
-- Security and privacy systems
+- Self-hosted services
+- Home security and privacy
 
-## Explore
+## Follow the Journey
 
-- [About](about.md)
-- [Experiments](experiments.md)
-- [Guides](guides.md)
-- [Hardware](hardware.md)
-- [Roadmap](roadmap.md)
+The goal is not to present a finished product.
 
-## Mission
+The goal is to document the process of learning, building, testing, and sharing.
 
-ProofOfNode documents the process of building, testing, and sharing sovereign technology solutions from a real-world home environment.
+Welcome to ProofOfHome — Genesis Day.

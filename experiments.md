@@ -18,6 +18,8 @@ Each experiment records:
 
 Status: In Progress
 
+Last Updated: July 2026
+
 Goal:
 
 Transform an existing Dell Latitude E7450 laptop into the first ProofOfHome Bitcoin node.

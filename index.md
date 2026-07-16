@@ -22,6 +22,24 @@ This experiment will document:
 - Power usage
 - Problems and lessons learned
 
+## Current Status
+
+**Season 1: Bitcoin Home Node Experiment**
+
+**Status:** Planning
+
+### Completed
+
+- ProofOfHome project created
+- Website launched
+- Project direction defined
+
+### Next Steps
+
+- Select Bitcoin node hardware
+- Build first node
+- Document setup and results
+
 ## The Long-Term Vision
 
 Over time, ProofOfHome will explore:
@@ -38,7 +56,7 @@ Over time, ProofOfHome will explore:
 - [About](about.md)
 - [Experiments](experiments.md)
 - [Guides](guides.md)
-- [Lab](hardware.md)
+- [Lab](lab.md)
 - [Roadmap](roadmap.md)
 
 ## Mission

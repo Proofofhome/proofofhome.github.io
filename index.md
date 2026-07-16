@@ -58,6 +58,7 @@ Over time, ProofOfHome will explore:
 - [Guides](guides.md)
 - [Lab](lab.md)
 - [Roadmap](roadmap.md)
+- [ProofOfHome Genesis: Day One](genesis.md)
 
 ## Mission
 

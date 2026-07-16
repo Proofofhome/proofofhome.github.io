@@ -4,7 +4,7 @@ Status: In Progress
 
 ## Goal
 
-Can an old laptop become useful home infrastructure?
+an an old laptop become useful sovereign home infrastructure?
 
 ## Starting Hardware
 

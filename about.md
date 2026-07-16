@@ -5,7 +5,9 @@ title: About
 
 # About ProofOfNode
 
-ProofOfNode is an open-source project exploring decentralised infrastructure, node technology, and self-sovereign systems.
+ProofOfHome is about practical resilience — reducing unnecessary dependence on systems we don't control by learning how technology works and building alternatives where they make sense.
+
+This is not about disconnecting from society or going completely off-grid. It is about understanding, owning, and improving the systems we rely on every day.
 
 ## Vision
 

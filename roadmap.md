@@ -1,24 +1,25 @@
----
-layout: default
-title: Roadmap
----
-
 # Roadmap
 
-## Phase 1 — Foundation
+## Season 1 — Bitcoin Foundation
 
-- Create project documentation
-- Setup GitHub Pages
-- Define project goals
+- Build first Bitcoin node
+- Document hardware choices
+- Measure costs and power usage
 
-## Phase 2 — Development
+## Season 2 — Sovereign Home Server
 
-- Build hardware experiments
-- Document configurations
-- Publish results
+- Self-hosted services
+- Local backups
+- Home dashboards
 
-## Phase 3 — Expansion
+## Season 3 — Physical Builds
 
-- Community contributions
-- Additional experiments
-- Open-source collaboration
+- Bitcoin displays
+- Electronics projects
+- Sensors and monitoring
+
+## Season 4 — Energy Independence
+
+- Solar integration
+- Power monitoring
+- Efficient infrastructure

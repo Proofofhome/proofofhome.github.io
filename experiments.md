@@ -1,17 +1,41 @@
----
-layout: default
-title: Experiments
----
-
 # Experiments
 
-This section documents ProofOfNode experiments.
+ProofOfHome experiments document real-world tests of sovereign home technology.
 
-## Current Experiments
+Each experiment records:
 
-- Node hardware testing
-- Network experiments
-- Self-hosted infrastructure
-- Performance monitoring
+- What was built
+- Why it was tested
+- Hardware used
+- Costs
+- Power usage
+- Problems
+- Results
 
-More experiments will be added as development progresses.
+## Active Experiments
+
+### Season 1: Bitcoin Home Node
+
+Status: Planning
+
+Goal:
+
+Build and operate a Bitcoin node at home using affordable hardware.
+
+Questions:
+
+- What is the cheapest practical setup?
+- How much power does it use?
+- How reliable is it?
+- What can an ordinary person learn from running one?
+
+## Future Experiments
+
+Future seasons may explore:
+
+- Lightning Network
+- Self-hosted services
+- Privacy tools
+- Hardware builds
+- Home monitoring
+- Energy systems

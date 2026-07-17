@@ -20,7 +20,8 @@ A Dell Latitude E7450 originally running Windows 7 is being repurposed into a Bi
 
 - `about.md` - Project background and goals
 - `why-i-started.md` - The motivation behind ProofOfHome
-- `experiments/` - Real-world hardware and software experiments
+- `experiments.md` - Experiment overview and index of active/future experiments
+- `experiments/` - Detailed experiment documentation and build logs
 - `lab.md` - Hardware, tools, and equipment documentation
 - `roadmap.md` - Future plans and project direction
 - `images/` - Experiment photos and project assets

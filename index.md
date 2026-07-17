@@ -54,6 +54,7 @@ Over time, ProofOfHome will explore:
 ## Explore
 
 - [About](about.md)
+- [Why I Started](why-i-started.md)
 - [Experiments](experiments.md)
 - [Guides](guides.md)
 - [Lab](lab.md)

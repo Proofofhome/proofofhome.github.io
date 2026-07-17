@@ -31,32 +31,60 @@ This laptop originally ran Windows 7 and is now being repurposed as the first Pr
 
 Rather than buying new hardware, this experiment tests what can be achieved by reusing existing equipment.
 
-## Current Status
+Current Status
 
-The laptop has been documented and is ready for transformation.
-
-Next phase:
-- Install Ubuntu Server LTS
-- Configure the system for home infrastructure
-- Install Bitcoin Core
-- Run a pruned Bitcoin node
-
-## Timeline
-
-### July 2026
+The laptop has been transformed from an old Windows 7 machine into an Ubuntu Server system.
 
 Completed:
+
+- Ubuntu Server LTS installed
+- UEFI boot configuration completed
+- Wi-Fi configured
+- System updates completed
+- Monitoring tools installed
+
+Next phase:
+
+Install Bitcoin Core
+Run a pruned Bitcoin node
+Measure performance and power usage
+
+Baseline Measurements
+
+Initial Ubuntu Server installation completed.
+
+Hardware:
+
+- CPU: Intel Core i5-5300U @ 2.3GHz
+- RAM: 8GB
+- Storage: 128GB mSATA SSD
+- Battery health: 94%
+
+Software:
+
+- Ubuntu Server 26.04 LTS
+- htop installed
+- lm-sensors installed
+- smartmontools installed
+
+Timeline
+
+July 2026
+
+Completed:
+
 - ProofOfHome project created
 - Genesis hardware selected
 - Dell Latitude E7450 documented
 - Hardware specifications recorded
+- Ubuntu Server installed
+- Initial system configuration completed
 
 Next:
-- Install Ubuntu Server LTS
-- Configure Bitcoin Core
-- Run a pruned Bitcoin node
-- Measure performance and power usage
 
+- Install Bitcoin Core
+- Configure pruned Bitcoin node
+- Measure performance and power usage
 ## Costs
 
 | Item | Cost |

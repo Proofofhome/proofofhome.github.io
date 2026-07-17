@@ -18,10 +18,12 @@ A Dell Latitude E7450 originally running Windows 7 is being repurposed into a Bi
 
 ## Project Structure
 
-- `experiments/` - real-world hardware and software experiments
-- `images/` - experiment photos
-- `lab.md` - hardware and tools
-- `roadmap.md` - future plans
+- `about.md` - Project background and goals
+- `why-i-started.md` - The motivation behind ProofOfHome
+- `experiments/` - Real-world hardware and software experiments
+- `lab.md` - Hardware, tools, and equipment documentation
+- `roadmap.md` - Future plans and project direction
+- `images/` - Experiment photos and project assets
 
 ## Mission
 

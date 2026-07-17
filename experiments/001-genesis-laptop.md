@@ -87,14 +87,17 @@ Next:
 - Measure performance and power usage
 ## Costs
 
+Costs
+
 | Item | Cost |
 |---|---:|
 | Dell Latitude E7450 | $0 |
 | Existing charger | $0 |
+| Kingston USB installer | Existing |
 | Ubuntu Server LTS | $0 |
 | Bitcoin Core | $0 |
 
-**Total so far: $0**
+Total so far: $0
 
 ## Questions
 

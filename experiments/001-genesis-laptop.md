@@ -87,6 +87,23 @@ Next:
 - Measure performance and power usage
 ## Costs
 
+## Installation Log
+
+### July 17, 2026
+
+Completed:
+
+- Installed Ubuntu Server on Dell Latitude E7450
+- Resolved UEFI USB boot issue
+- Configured Wi-Fi
+- Installed system monitoring tools
+
+Next:
+
+- Install Bitcoin Core
+- Configure pruned Bitcoin node
+- Measure performance and power usage
+
 Costs
 
 | Item | Cost |

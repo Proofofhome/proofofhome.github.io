@@ -31,18 +31,15 @@ This laptop originally ran Windows 7 and is now being repurposed as the first Pr
 
 Rather than buying new hardware, this experiment tests what can be achieved by reusing existing equipment.
 
-## Current State
+## Current Status
 
-Operating System:
-Windows 7
+The laptop has been documented and is ready for transformation.
 
-## Planned Transformation
-
-Windows 7 laptop  
-↓  
-Ubuntu Server LTS  
-↓  
-Bitcoin pruned node
+Next phase:
+- Install Ubuntu Server LTS
+- Configure the system for home infrastructure
+- Install Bitcoin Core
+- Run a pruned Bitcoin node
 
 ## Timeline
 

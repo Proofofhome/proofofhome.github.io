@@ -169,4 +169,3 @@ Total so far: $0
 ## Results
 
 To be documented.
-To be documented.

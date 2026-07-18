@@ -1,8 +1,10 @@
 # ProofOfHome
 
-Building sovereign technology one home at a time.
+Building capable homes in a digital world.
 
-ProofOfHome documents experiments in Bitcoin, privacy, self-hosted technology, and resilient home infrastructure.
+ProofOfHome is an open-source experiment exploring Bitcoin,
+self-hosting, open technology, energy systems and practical
+skills that help households become more resilient and independent.
 
 ## Website
 

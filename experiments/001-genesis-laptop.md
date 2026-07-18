@@ -31,25 +31,34 @@ This laptop originally ran Windows 7 and is now being repurposed as the first Pr
 
 Rather than buying new hardware, this experiment tests what can be achieved by reusing existing equipment.
 
-Current Status
+## Current Status
 
-The laptop has been transformed from an old Windows 7 machine into an Ubuntu Server system.
+The laptop has been transformed from an old Windows 7 machine into an Ubuntu Server system and is now running Bitcoin Core and synchronising the Bitcoin blockchain.
 
 Completed:
 
-- Ubuntu Server LTS installed
+- Ubuntu Server 26.04 LTS installed
 - UEFI boot configuration completed
 - Wi-Fi configured
 - System updates completed
 - Monitoring tools installed
+- Bitcoin Core 31.0 installed
+- Bitcoin Core download verified using SHA256 checksum
+- Bitcoin Core release signature verified using GPG
+- Pruned node configuration created
+- Bitcoin Core daemon started
 
-Next phase:
+Current phase:
 
-Install Bitcoin Core
-Run a pruned Bitcoin node
-Measure performance and power usage
+Initial blockchain synchronisation.
 
-Baseline Measurements
+Next:
+
+- Monitor blockchain synchronisation
+- Record CPU, RAM and storage usage
+- Measure performance and power consumption
+
+## Baseline Measurements
 
 Initial Ubuntu Server installation completed.
 
@@ -67,7 +76,28 @@ Software:
 - lm-sensors installed
 - smartmontools installed
 
-Timeline
+## Bitcoin Core Installation
+
+### July 18, 2026
+
+Bitcoin Core was installed using the official Linux binaries.
+
+Verification completed:
+
+- SHA256 checksum verified
+- GPG signature verified
+
+Configuration:
+
+- Bitcoin Core version: 31.0
+- Ubuntu Server 26.04 LTS
+- Pruned node enabled
+
+Current status:
+
+Bitcoin Core daemon running and initial blockchain synchronisation started.
+
+## Timeline
 
 July 2026
 
@@ -79,13 +109,15 @@ Completed:
 - Hardware specifications recorded
 - Ubuntu Server installed
 - Initial system configuration completed
+- Bitcoin Core installed and verified
+- Pruned node configured
+- Bitcoin Core daemon started
 
 Next:
 
-- Install Bitcoin Core
-- Configure pruned Bitcoin node
-- Measure performance and power usage
-## Costs
+- Monitor blockchain synchronisation
+- Record resource usage
+- Measure performance and power consumption
 
 ## Installation Log
 
@@ -98,13 +130,24 @@ Completed:
 - Configured Wi-Fi
 - Installed system monitoring tools
 
+### July 18, 2026
+
+Completed:
+
+- Downloaded Bitcoin Core official binaries
+- Verified SHA256 checksum
+- Verified GPG signature
+- Installed Bitcoin Core 31.0
+- Created pruned node configuration
+- Started Bitcoin Core daemon
+
 Next:
 
-- Install Bitcoin Core
-- Configure pruned Bitcoin node
-- Measure performance and power usage
+- Monitor blockchain synchronisation
+- Record resource usage
+- Measure performance and power consumption
 
-Costs
+## Costs
 
 | Item | Cost |
 |---|---:|
@@ -125,4 +168,5 @@ Total so far: $0
 
 ## Results
 
+To be documented.
 To be documented.

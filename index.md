@@ -1,6 +1,6 @@
 # ProofOfHome
 
-Building sovereign technology one home at a time.
+Building capable homes in a digital world.
 
 ## Genesis: Why This Project Exists
 

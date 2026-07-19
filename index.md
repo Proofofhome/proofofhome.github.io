@@ -1,10 +1,6 @@
 # ProofOfHome
 
-Building capable homes in a digital world.
-
-One person's real, documented attempt to build sovereign, private, resilient home technology — starting with a Bitcoin node, and expanding into self-hosting, energy independence, and practical resilience. Pseudonymous. Open source. Real hardware, real costs, real failures.
-
-New experiments published roughly weekly on X and Nostr.
+**Season 1 in progress:** repurposing a $0-cost laptop into a Bitcoin node. First real results — sync time, power draw — are the next milestone.
 
 ---
 

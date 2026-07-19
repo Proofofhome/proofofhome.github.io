@@ -42,3 +42,6 @@ Future seasons may explore:
 - Hardware builds
 - Home monitoring
 - Energy systems
+- Practical resilience: backup power, water, food, off-grid communications
+
+See the [Roadmap](roadmap.md) for how these fit together.

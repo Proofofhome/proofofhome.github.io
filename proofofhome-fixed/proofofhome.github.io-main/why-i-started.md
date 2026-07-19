@@ -31,6 +31,7 @@ You don't need to be an expert to start. I'm not one. A couple of years ago I kn
 - Using open-source tools you can actually read, not just take on faith.
 - Adding some solar or basic energy backup.
 - Getting better at repairing things instead of always replacing them.
+- Basic practical resilience — backup power, water, food, off-grid communications — the boring, unglamorous stuff that actually matters if something goes wrong.
 
 The world's getting more digital and more regulated no matter who's in charge. The people who understand their own small corner of it — their money, their data, their power, their tools — end up with more real options. Everyone else just has to hope the system keeps working in their favour.
 

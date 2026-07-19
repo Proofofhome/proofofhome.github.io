@@ -24,7 +24,7 @@ It isn't a Bitcoin project that occasionally touches other things. It's a sovere
 
 Every experiment is real: real hardware, real costs, real failures, documented as they happen — not theory, and not a polished "best setup" guide.
 
-The creator works in local government IT and writes pseudonymously — the project is about the work, not the person behind it.
+ProofOfHome is written pseudonymously by an Australian working in local government IT — the project is about the work, not the person behind it. See [Why I Started](why-i-started.md) for the full story.
 
 ---
 

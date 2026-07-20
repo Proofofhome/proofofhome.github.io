@@ -1,59 +1,33 @@
 # About ProofOfHome
 
-## Why ProofOfHome Exists
+## Why I'm Doing This
 
-Modern life depends on increasingly complex systems.
+Modern life runs on systems most of us don't really understand. Our money, our data, our power, our communication — all managed by things we use every day and rarely look inside.
 
-Our money, technology, data, communication, and energy are managed through systems most people use every day but rarely understand.
+That's fine, most of the time. Right up until it isn't.
 
-These systems provide enormous benefits, but dependence without understanding creates vulnerability.
+So I started asking myself a simple question: **could an ordinary household actually get more capable and more independent, bit by bit?** Not off-grid, not disconnected from the world — just less dependent on trusting other people to run things properly on your behalf.
 
-ProofOfHome started from a simple question:
+## What This Actually Is
 
-**Can an ordinary household become more resilient by understanding and controlling more of the technology it depends on?**
+ProofOfHome is me documenting that attempt, in public, under a pseudonym. It started with a Bitcoin node, because running your own node is about the clearest example there is of owning a piece of infrastructure instead of just using someone else's.
 
-This is not about disconnecting from society or rejecting modern technology. It is about becoming more capable within it.
+It's not really a Bitcoin project though. Bitcoin's just where it started. I write pseudonymously — I work a normal tech job in Australia, and this is about the work, not about me. If you want the longer version of why, [I wrote about that separately](why-i-started.md).
 
----
+Everything I post is real. Real hardware, real costs, things that broke, things I got wrong. I'm not trying to sell anyone a "perfect setup" — there isn't one. I'm just showing my own.
 
-## What Is ProofOfHome?
+## Where It's Headed
 
-ProofOfHome is an open-source, pseudonymous project documenting one ordinary person's attempt to build sovereign, private, and resilient home technology — starting with running a Bitcoin node, and expanding into self-hosting, energy independence, and practical resilience.
-
-It isn't a Bitcoin project that occasionally touches other things. It's a sovereign-home project that starts with Bitcoin, because running your own node is the clearest example of owning infrastructure instead of only using someone else's.
-
-Every experiment is real: real hardware, real costs, real failures, documented as they happen — not theory, and not a polished "best setup" guide.
-
-ProofOfHome is written pseudonymously by an Australian working in tech — the project is about the work, not the person behind it. See [Why I Started](why-i-started.md) for more.
-
----
-
-## Vision
-
-A future where ordinary households understand and control more of the systems they rely on.
-
-A sovereign home is not a home disconnected from the world. It is a home that:
-
-- understands its technology
-- controls its data
-- verifies its money
-- uses open and repairable systems
-- builds resilience through knowledge
-
----
-
-## Mission
-
-Build, test, document, and share real-world experiments across:
+Eventually I'd like this to cover:
 
 - Bitcoin infrastructure
-- Self-hosted systems
+- Self-hosting
 - Hardware projects
 - Privacy and security
-- Home energy systems
-- Practical resilience — backup power, water, food, off-grid communications
-- Emerging technologies, where they genuinely help
+- Home energy
+- Practical resilience — backup power, water, food, off-grid comms
+- Whatever else genuinely turns out to be useful
 
-Every experiment documents what was built, why, hardware and real costs, what broke, and what was learned. See [Principles](philosophy.md) for the ground rules every experiment follows.
+Every experiment gets written up honestly — what I built, why, what it cost, what broke, what I'd do differently. The ground rules for that are on the [Principles](philosophy.md) page.
 
-New experiments are published roughly weekly, alongside the build logs, on X and Nostr.
+I try to post something roughly weekly, on X and Nostr, as things actually happen.

@@ -1,21 +1,15 @@
 # Principles
 
-The ground rules every ProofOfHome experiment follows.
+A few rules I try to actually stick to.
 
-## The Rules
+**Real costs.** Every dollar I spend gets written down, including the stuff I got for free by reusing old hardware.
 
-- **Real costs.** Every dollar spent (or saved by reusing hardware) is recorded.
-- **Real results.** Numbers are published as measured, not as hoped for.
-- **Mistakes included.** Failures are documented as thoroughly as successes.
-- **What worked.** Clearly separated from what didn't.
-- **What didn't.** Not smoothed over or left out.
+**Real results.** Whatever numbers I publish are what I actually measured, not what I hoped for.
 
-## The Voice
+**Mistakes stay in.** If something breaks, that's part of the story too — I'm not going back and editing it out to look smarter.
 
-Written as a regular person figuring it out in public — not an expert, not a guru, not selling a "best setup." If something breaks, that's part of the record, not something to edit out.
+**What worked and what didn't, kept separate.** Easy to blur these together after the fact. I try not to.
 
-## The Standard
+I'm not an expert doing this for an audience. I'm a normal person figuring it out as I go, and writing down what actually happened instead of what a polished guide would tell you should happen.
 
-Rather than saying "this is the best setup," ProofOfHome says: "this is exactly what was built, what happened, what it cost, what broke, and what was learned."
-
-The goal isn't a perfect system. It's an honest, reproducible record other people can actually learn from.
+If there's a single standard I'm holding myself to, it's this: not "here's the best setup," but "here's exactly what I built, what it cost, what broke, and what I'd tell you if you asked me over a beer."

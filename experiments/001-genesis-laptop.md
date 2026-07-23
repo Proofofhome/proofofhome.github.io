@@ -1,200 +1,60 @@
 # Experiment 001: Reviving an Old Laptop
 
-**Status:** 🟡 Initial Block Download (50.66% Complete)
-**Last Updated:** July 21, 2026
+**Status:** 🟡 Initial Block Download (**71.78% Complete**)
+**Last Updated:** July 23, 2026
 
----
-
-# Experiment Summary
-
-| Item             | Details                                                 |
-| ---------------- | ------------------------------------------------------- |
-| Experiment       | Reviving an Old Laptop                                  |
-| Goal             | Build useful home infrastructure from existing hardware |
-| Hardware         | Dell Latitude E7450                                     |
-| Operating System | Ubuntu Server 26.04 LTS                                 |
-| Software         | Bitcoin Core 31.0                                       |
-| Node Type        | Pruned Bitcoin Node                                     |
-| Storage Target   | 10 GB prune limit                                       |
-| Project Cost     | $0                                                      |
-| Status           | Synchronising                                           |
-
----
-
-## Goal
-
-Can an old laptop become useful sovereign home infrastructure?
-
-The first ProofOfHome experiment explores whether existing hardware can be transformed into a Bitcoin home node using free and open-source software.
-
-Rather than buying new specialised hardware, this experiment documents what can be achieved by repurposing equipment that would otherwise sit unused.
-
-The process will document:
-
-* Setup
-* Costs
-* Challenges
-* Performance
-* Power usage
-* Lessons learned
-
----
-
-## Why This Experiment?
-
-Thousands of computers are replaced every year despite still having useful life remaining.
-
-This experiment starts with a simple question:
-
-**Can existing hardware still provide meaningful infrastructure in a modern home?**
-
-Rather than focusing on the newest hardware, ProofOfHome begins by exploring what can be built with what is already available.
-
----
-
-# Starting Hardware
-
-## Dell Latitude E7450
-
-* Intel Core i5-5300U @ 2.3 GHz
-* 8 GB RAM
-* 128 GB mSATA SSD
-* Battery health: 94%
-
----
-
-## Photos
-
-![Dell Latitude E7450](../images/genesis/laptopopen.jpg)
-
-![Dell Latitude E7450](../images/genesis/laptopclosed.jpg)
-
----
-
-# History
-
-This laptop originally ran Windows 7 before being retired.
-
-Instead of becoming electronic waste, it is being given a second life as the first ProofOfHome infrastructure project.
-
-The goal is not to prove old hardware is always better, but to test whether it can still provide useful services with minimal cost.
-
----
+...
 
 # Current Status
 
-The laptop has successfully been transformed from an old Windows 7 machine into an Ubuntu Server system running Bitcoin Core as a pruned Bitcoin node.
+The laptop has successfully been transformed from an ageing Windows 7 machine into an Ubuntu Server system running Bitcoin Core as a pruned Bitcoin node.
 
-The node is currently performing its **Initial Block Download (IBD)**, downloading and verifying the Bitcoin blockchain before normal operation begins.
+The node is currently performing its **Initial Block Download (IBD)**, downloading and verifying the Bitcoin blockchain before entering normal operation.
 
 ## Completed
 
 * Ubuntu Server 26.04 LTS installed
 * Dell UEFI boot issues resolved
 * Wi-Fi configured
-* System updates completed
+* System updated
 * Monitoring tools installed
 * Bitcoin Core 31.0 installed
 * SHA256 checksum verified
 * GPG release signature verified
-* Pruned node configuration created
+* Pruned node configured
 * Bitcoin Core daemon started
-* Blockchain synchronisation underway
+* Blockchain synchronisation reached **71.78%**
 
 ## Next
 
 * Complete blockchain synchronisation
-* Record total sync time
+* Record total synchronisation time
 * Measure CPU and RAM usage
 * Measure power consumption
 * Evaluate long-term reliability
-
----
-
-# Baseline Measurements
-
-## Hardware
-
-* CPU: Intel Core i5-5300U @ 2.3 GHz
-* RAM: 8 GB
-* Storage: 128 GB mSATA SSD
-* Battery health: 94%
-
-## Software
-
-* Ubuntu Server 26.04 LTS
-* Bitcoin Core 31.0
-* htop
-* lm-sensors
-* smartmontools
-
----
-
-# Bitcoin Core Installation
-
-## July 18, 2026
-
-Bitcoin Core was installed using the official Linux binaries.
-
-## Verification
-
-Completed:
-
-* SHA256 checksum verification
-* Official GPG release signature verification
-
-## Configuration
-
-* Bitcoin Core version: 31.0
-* Operating system: Ubuntu Server 26.04 LTS
-* Node type: Pruned node
-* Automatic pruning enabled
-* Prune target: 10 GB
-
-## Result
-
-Bitcoin Core successfully started and began synchronising with the Bitcoin network.
+* Publish final experiment results
 
 ---
 
 # Synchronisation Progress
 
-## Latest Measurement
+The node is currently performing its **Initial Block Download (IBD)**. The checkpoints below document progress over time while running on the Dell Latitude E7450.
 
-**Date:** July 21, 2026
+| Date      | Verification | Blocks Validated | Disk Usage | Notes                                                                                                                      |
+| --------- | -----------: | ---------------: | ---------: | -------------------------------------------------------------------------------------------------------------------------- |
+| July 2026 |       21.96% |          494,647 |    3.41 GB | Initial synchronisation after Bitcoin Core installation.                                                                   |
+| July 2026 |       50.66% |          717,597 |    2.07 GB | Approximately halfway through blockchain verification. Pruning operating as expected.                                      |
+| July 2026 |       71.78% |         838,773+ |    4.09 GB | Synchronisation continues steadily. Automatic pruning reclaimed storage while remaining below the configured 10 GB target. |
 
-* Network: Bitcoin Mainnet
-* Blocks fully validated: **717,597**
-* Known block headers: **958,939**
-* Verification progress: **50.66%**
-* Initial Block Download: **Yes**
-* Pruned node: **Enabled**
-* Disk usage: **2.07 GB**
-* Prune target: **10.48 GB**
+## Latest Update
 
-## Notes
+The node has now verified **more than 71%** of the Bitcoin blockchain and continues to synchronise without issue.
 
-The node has now validated more than 717,000 blocks and is approximately halfway through the initial blockchain verification process.
+One interesting observation during this stage is how **pruning dynamically manages storage**. As older validated blocks become unnecessary, Bitcoin Core automatically removes them to remain within the configured storage target.
 
-Because the node is operating in pruned mode, older block data is automatically removed after validation, allowing the system to operate within the configured storage limit.
+During the latest synchronisation checkpoint, disk usage dropped from approximately **8.6 GB** to **4.09 GB** while the prune height advanced from **834,426** to **838,773**, demonstrating that a fully validating Bitcoin node can comfortably operate within a relatively small storage allocation when running in pruned mode.
 
----
-
-# Challenges
-
-## Encountered
-
-### Dell UEFI Boot Configuration
-
-The laptop initially required troubleshooting to boot correctly from the Ubuntu Server installer.
-
-### Ubuntu Server Network Configuration
-
-Wi-Fi configuration required troubleshooting due to YAML network configuration issues.
-
-### Initial Blockchain Synchronisation
-
-Running a Bitcoin node on older hardware requires patience. The initial verification process is expected to take significant time.
+The experiment remains in the **Initial Block Download** phase and is expected to continue until the blockchain has been fully verified.
 
 ---
 
@@ -226,28 +86,24 @@ Completed:
 
 ## July 21, 2026
 
-Current progress:
+Milestone reached:
 
 * 717,597 blocks validated
 * 50.66% verification complete
 * 2.07 GB disk usage
-* Running in pruned mode
+* Initial Block Download continuing
 
 ---
 
-# Costs
+## July 23, 2026
 
-| Item                   |     Cost |
-| ---------------------- | -------: |
-| Dell Latitude E7450    |       $0 |
-| Existing charger       |       $0 |
-| Kingston USB installer | Existing |
-| Ubuntu Server          |       $0 |
-| Bitcoin Core           |       $0 |
+Milestone reached:
 
-## Total Cost So Far
-
-**$0**
+* Verification progress increased to **71.78%**
+* More than **838,000 blocks** validated
+* Automatic pruning continued to reclaim storage
+* Disk usage remained well below the configured 10 GB limit
+* Initial Block Download continuing
 
 ---
 
@@ -255,61 +111,30 @@ Current progress:
 
 When the experiment is complete:
 
-| Metric                | Result  |
-| --------------------- | ------- |
-| Total sync time       | Pending |
-| Final disk usage      | Pending |
-| Average CPU usage     | Pending |
-| Peak RAM usage        | Pending |
-| Power consumption     | Pending |
-| Long-term reliability | Pending |
-
----
-
-# Lessons Learned
-
-To be completed after the experiment.
-
-Expected observations:
-
-* How capable older hardware remains
-* Challenges running infrastructure on consumer devices
-* The practicality of pruned Bitcoin nodes
-* The importance of documenting the process
-
----
-
-# Would I Do This Again?
-
-**Pending completion**
-
-Final evaluation will consider:
-
-| Category       | Rating  |
-| -------------- | ------- |
-| Cost           | Pending |
-| Difficulty     | Pending |
-| Time Required  | Pending |
-| Performance    | Pending |
-| Recommendation | Pending |
+| Metric                     | Result  |
+| -------------------------- | ------- |
+| Total synchronisation time | Pending |
+| Final blockchain height    | Pending |
+| Final disk usage           | Pending |
+| Average CPU usage          | Pending |
+| Peak RAM usage             | Pending |
+| Power consumption          | Pending |
+| Long-term reliability      | Pending |
+| Total project cost         | $0      |
 
 ---
 
 # Results
 
-**Experiment in progress.**
+**Experiment still in progress.**
 
-Final results will include:
+The final report will include:
 
-* Blockchain synchronisation time
-* Resource usage
+* Total blockchain synchronisation time
+* CPU and RAM utilisation
+* Final storage usage
 * Power consumption
-* Reliability observations
+* Long-term reliability observations
 * Overall recommendation
-* Lessons for anyone attempting a similar build
-
----
-
-# Appendix: Commands and Configuration
-
-Commands, configuration files and troubleshooting notes will be documented here to make the experiment reproducible.
+* Lessons learned
+* Whether a decade-old laptop remains a practical platform for home Bitcoin infrastructure
